@@ -1,0 +1,28 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+}
+
+.card img {
+  border-radius: 4px;
+}
+
+.card p {
+  margin: 0 10px;
+}
+
+.online {
+  color: #4caf50;
+  font-weight: 600;
+}
+
+.offline {
+  color: #f44336;
+  font-weight: 600;
+}

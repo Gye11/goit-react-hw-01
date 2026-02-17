@@ -5,7 +5,7 @@
   border-radius: 8px;
   overflow: hidden;
   text-align: center;
-  border: 1px solid #dcdcdc;
+  border: 1px solid #000000;
   color: #2e2e2e;
 }
 
@@ -32,7 +32,7 @@
   padding: 15px 0;
   display: flex;
   flex-direction: column;
-  border-right: 1px solid #dcdcdc;
+  border-right: 1px solid #000000;
 }
 
 .card li:last-child {

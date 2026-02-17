@@ -39,10 +39,10 @@
   border-right: none;
 }
 
-.card span:first-child {
+.stats span:first-child {
   font-size: 12px;
-  color: #000000 !important;
-  opacity: 0.7;
+  color: #000000;
+  opacity: 1;
 }
 
 .card span:last-child {

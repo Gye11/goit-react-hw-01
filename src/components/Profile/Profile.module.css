@@ -6,6 +6,7 @@
   overflow: hidden;
   text-align: center;
   border: 1px solid #dcdcdc;
+  color: #2e2e2e;
 }
 
 .card img {
@@ -40,7 +41,8 @@
 
 .card span:first-child {
   font-size: 12px;
-  color: #777;
+  color: #000000;
+  opacity: 0.7;
 }
 
 .card span:last-child {

@@ -41,7 +41,7 @@
 
 .card span:first-child {
   font-size: 12px;
-  color: #000000;
+  color: #000000 !important;
   opacity: 0.7;
 }
 
